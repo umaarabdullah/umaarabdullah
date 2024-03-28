@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Core Banking System (CBS), Security for Embedded Systems
 - 👀 I’m interested in Computer Architecture, Machine learning, Deep learning, VLSI, EDA, Software Development
 - 🌱 I’m currently learning Machine learning, Deep learning, .NET 6, ASP.NET, Vue.js, VLSI, Embedded Systems
-- 👯 I’m looking to collaborate on Machine learning, Deep learning, Artificial Intelligence, VLSI, Embedded Systems projects, IOT, Large-scale software projects
+- 👯 I’m looking to collaborate on Machine learning, Deep learning, Artificial Intelligence, VLSI, Embedded Systems projects, IOT
 - 📫 How to reach me: umaar71@gmail.com
