@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 I’m @umaar. I am a computer science and engineering graduate from the University of Dhaka
-- 🔭 I’m currently working on Core Banking System (CBS), Security for Embedded Systems
+- 👋 Hi I’m @umaar. I am a computer science and engineering graduate from the University of Dhaka
+- 🔭 I'm Currently working
+- 💼 Work Experiences
+-   Worked on Core Banking System (CBS), Security for financial applications
 - 👀 I’m interested in Computer Architecture, Machine learning, Deep learning, VLSI, EDA, Software Development
-- 🌱 I’m currently learning Machine learning, Deep learning, .NET 6, ASP.NET, Vue.js, VLSI, Embedded Systems
+- 🌱 I’m currently learning Machine learning, Deep learning, ML for Embedded Systems, .NET 6, ASP.NET, Vue.js, VLSI
 - 👯 I’m looking to collaborate on Machine learning, Deep learning, Artificial Intelligence, VLSI, Embedded Systems projects, IOT
 - 📫 How to reach me: umaar71@gmail.com
