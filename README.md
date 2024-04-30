@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 👋 Hi I’m @umaar. I am a computer science and engineering graduate from the University of Dhaka
 - 🔭 I'm Currently working
 - 💼 Work Experiences
+    - Ex Software Engineer @ Leads
     - Worked on Core Banking System (CBS), Authentication and API Access Security using a JWT Refresh Token based approach for financial applications
 - 👀 I’m interested in Computer Architecture, Machine learning, Deep learning, VLSI, EDA, Software Development
 - 🌱 I’m currently learning Machine learning, Deep learning, ML for Embedded Systems, .NET 6, ASP.NET, Vue.js, VLSI
