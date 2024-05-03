@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi I’m @umaar. I am a computer science and engineering graduate from the University of Dhaka
-- 🔭 I'm Currently working
+- 👋 Hi I’m @umaar. I'm an Embedded Software Engineer. I did my bachelors in computer science and engineering from the University of Dhaka.
+- 🔭 I'm Currently working as an Embedded Software Engineer in a Research and Development Team at an American Company.
 - 💼 Work Experiences
-    - Ex-Software Engineer @ Leads
+    - Embedded Software Engineer in (R&D) Team
+    - Ex-Software Engineer in Banking Solutions Team
         - Worked on Core Banking System (CBS), Authentication and API Access Security using a JWT Refresh Token based approach for financial applications
 - 👀 I’m interested in Computer Architecture, Machine learning, Deep learning, VLSI, EDA, Software Development
 - 🌱 I’m currently learning Machine learning, Deep learning, ML for Embedded Systems, .NET 6, ASP.NET, Vue.js, VLSI
