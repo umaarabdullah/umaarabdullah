@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 💼 Work Experiences
     - Embedded Software Engineer in (R&D) Team
     - Ex-Software Engineer in Banking Solutions Team
-        - Worked on Core Banking System (CBS), Authentication and API Access Security using a JWT Refresh Token based approach for financial applications
+        - Worked on Core Banking System (CBS), Authentication and API Access Security, JWT Refresh Token for financial applications
 - 👀 I’m interested in Computer Architecture, Machine learning, Deep learning, VLSI, EDA, Software Development
 - 🌱 I’m currently learning Machine learning, Deep learning, ML for Embedded Systems, .NET 6, ASP.NET, Vue.js, VLSI
 - 👯 I’m looking to collaborate on Machine learning, Deep learning, Artificial Intelligence, VLSI, Embedded Systems projects, IOT
