@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - 🔭 I'm Currently working as an Embedded Software Engineer in a Research and Development Team at an American Company.
 - 💼 Work Experiences
     - Embedded Software Engineer in (R&D) Team
+        - Worked with temperature and humidity sensor based devices
+        - Experienced in writing firmware for custom hardware.     
     - Ex-Software Engineer in Banking Solutions Team
         - Worked on Core Banking System (CBS), Authentication and API Access Security, JWT, Token Based Session Authorization for financial applications
 - 👀 I’m interested in Computer Architecture, Machine learning, Deep learning, VLSI, EDA, Software Development
