@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi I’m @umaar. I'm an Embedded Software Engineer. I did my bachelors in computer science and engineering from the University of Dhaka.
+- 👋 Hi I’m @umaar and I'm a Software Engineer.
 - 🔭 I'm Currently working as an Embedded Software Engineer in a Research and Development Team at an American Company.
 - 💼 Work Experiences
     - Embedded Software Engineer in (R&D) Team
