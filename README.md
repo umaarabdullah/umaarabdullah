@@ -33,11 +33,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Machine learning, Deep learning, Artificial Intelligence, VLSI, Embedded Systems projects, IOT
 - 📫 How to reach me: umaar71@gmail.com
 
-
+![engineer_github_gif-ezgif com-resize](https://github.com/umaarabdullah/umaarabdullah/assets/22682610/111fc529-9d8f-4e42-8c94-df4a9b1f7978)
 
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=umaarabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="umaarabdullah" /> 
-    <img src="https://github.com/umaarabdullah/umaarabdullah/assets/22682610/111fc529-9d8f-4e42-8c94-df4a9b1f7978" alt="engineer_github_gif" />
+    <img src="https://komarev.com/ghpvc/?username=umaarabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="umaarabdullah" />     
 </p>
 
 <p align="left">
