@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 - 🔭 I'm Currently working as an Embedded Software Engineer in a Research and Development Team at an American Company.
 - 💼 Work Experiences
     - Embedded Software Engineer in R&D Role
-        - Worked with temperature and humidity sensor based devices
+        - Worked with temperature and humidity sensor based devices.
+        - MQ2 sensor, Ultrasonic sensor, Infrared Sensor, LiDAR sensor, Camera, LCD
         - Experienced in writing firmware for custom hardware.
+        - MCU Platforms: STM32, AURIX TriCore, Atmel, Renasas
         - Embedded Protocols/Peripherals like UART, I2C, SPI, ADC, DAC, PWM
         - RF Technologies : BLE, 4G LTE M1, GSM Wifi, NFC
         - Ethernet, TCP/IP
