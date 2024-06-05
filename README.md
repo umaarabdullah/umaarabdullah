@@ -49,7 +49,7 @@ Here are some ideas to get you started:
     <img src="https://upload.wikimedia.org/wikipedia/en/f/f3/STMicroelectronics_logo.svg" alt="stm32" width="40" height="40"/> 
   </a>
   <a href="https://www.keil.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.keil.com/_img/keil_logo.png" alt="Keil" width="40" height="40"/> 
+    <img src="https://www.logo.wine/logo/Keil_%28company%29" alt="Keil" width="40" height="40"/> 
   </a>
 <a href="https://www.infineon.com/cms/en/tools/aurix-bsp/" target="_blank" rel="noreferrer"> 
     <img src="https://www.infineon.com/export/sites/default/_images/products/memories/memories-optigatrust-aurix-100.png" alt="Aurix Studio" width="40" height="40"/> 
