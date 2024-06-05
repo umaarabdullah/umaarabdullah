@@ -33,10 +33,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Machine learning, Deep learning, Artificial Intelligence, VLSI, Embedded Systems projects, IOT
 - 📫 How to reach me: umaar71@gmail.com
 
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
