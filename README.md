@@ -52,7 +52,7 @@ Here are some ideas to get you started:
     <img src="https://upload.wikimedia.org/wikipedia/en/8/8d/Keil_logo.svg" alt="Keil" width="40" height="40"/>   
   </a>
 <a href="https://www.infineon.com/cms/en/tools/aurix-bsp/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.infineon.com/export/sites/default/_images/products/memories/memories-optigatrust-aurix-100.png" alt="Aurix Studio" width="40" height="40"/> 
+    <img src="https://softwaretools.infineon.com/api/v1/tools/com.ifx.tb.tool.aurixide/icon" alt="Aurix Studio" width="40" height="40"/> 
   </a>
   <a href="https://www.microchip.com/mplab/microchip-studio" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Microchip-Logo.svg" width="40" height="40"/> 
