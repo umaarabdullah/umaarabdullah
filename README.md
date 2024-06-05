@@ -39,9 +39,6 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=umaarabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="umaarabdullah" />     
 </p>
 
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     
