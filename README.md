@@ -48,6 +48,9 @@ Here are some ideas to get you started:
 <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/en/f/f3/STMicroelectronics_logo.svg" alt="stm32" width="40" height="40"/> 
   </a>
+  <a href="https://www.microchip.com/mplab/microchip-studio" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Microchip_logo.svg/1024px-Microchip_logo.svg.png" alt="microchip studio" width="40" height="40"/> 
+  </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a>  
