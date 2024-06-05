@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=umaarabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="umaarabdullah" />     
 </p>
-<p aligh="right">
+<p align="right">
     ![engineer_github_gif](https://github.com/umaarabdullah/umaarabdullah/assets/22682610/01d147bd-baa2-45f2-b07b-137babba4c0b)
 </p>
 
