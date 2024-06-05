@@ -48,11 +48,17 @@ Here are some ideas to get you started:
 <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/en/f/f3/STMicroelectronics_logo.svg" alt="stm32" width="40" height="40"/> 
   </a>
+  <a href="https://www.keil.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.keil.com/_img/keil_logo.png" alt="Keil" width="40" height="40"/> 
+  </a>
+<a href="https://www.infineon.com/cms/en/tools/aurix-bsp/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.infineon.com/export/sites/default/_images/products/memories/memories-optigatrust-aurix-100.png" alt="Aurix Studio" width="40" height="40"/> 
+  </a>
   <a href="https://www.microchip.com/mplab/microchip-studio" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Microchip-Logo.svg" width="40" height="40"/> 
   </a>
   <a href="https://www.renesas.com/us/en/products/software-tools/simulators-debuggers/e2studio.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.renesas.com/us/en/campaigns/e2studio/_jcr_content/root/responsivegrid/container_579252269/sectioncontainer/sectioncontainer_1905322258/image.image.530.high.png/1635513631794/e2studio_product_header.png" alt="E2 Studio" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/BTS_E2.svg" alt="E2 Studio" width="40" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
