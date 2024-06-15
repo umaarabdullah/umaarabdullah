@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     - Ex-Software Engineer in Banking Solutions Team
         - Worked on Core Banking System (CBS), .NET 6, .NET Web API, Authentication and Web API Security, JWT, Token Based Session Authorization for financial applications
 - 👀 I’m interested in Computer Architecture, Machine learning, Deep learning, VLSI, EDA, Software Development
-- 🌱 I’m currently learning Machine learning, Deep learning, ML for Embedded Systems, .NET 6, ASP.NET, Vue.js, VLSI
+- 🌱 I’m currently learning Machine learning, Deep learning, ML for Embedded Systems, .NET 6, VLSI, Unity, Game Development
 - 👯 I’m looking to collaborate on Machine learning, Deep learning, Artificial Intelligence, VLSI, Embedded Systems projects, IOT
 - 📫 How to reach me: umaar71@gmail.com
 
