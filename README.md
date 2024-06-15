@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 - 💼 Work Experiences
     - Embedded Software Engineer in R&D Role
         - Worked with temperature and humidity sensor based devices.
-        - MQ2 sensor, Ultrasonic sensor, Infrared Sensor, LiDAR sensor, Camera, LCD
+        - MQ2 sensor, Ultrasonic sensor, Infrared Sensor, LiDAR sensor, Camera, LCD, EEPROM, Ambient Light sensor
         - Experienced in writing firmware for custom hardware.
         - MCU Platforms: STM32, AURIX TriCore, Atmel, Renasas
         - Embedded Protocols/Peripherals like UART, I2C, SPI, ADC, DAC, PWM
-        - RF Technologies : BLE, 4G LTE M1, GSM Wifi, NFC
+        - RF Technologies : BLE, 4G LTE M1, GSM, Bluetooth, Wifi, NFC
         - Ethernet, TCP/IP
     - Ex-Software Engineer in Banking Solutions Team
         - Worked on Core Banking System (CBS), .NET 6, .NET Web API, Authentication and Web API Security, JWT, Token Based Session Authorization for financial applications
